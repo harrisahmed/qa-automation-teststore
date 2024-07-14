@@ -1,0 +1,12 @@
+{
+  "user": {
+    "email": "Dummy@gmail.com",
+    "firstName": "Test User",
+    "lastName": "David",
+    "phone": "5454565",
+    "country": "South Africa",
+    "city": "Alberton",
+    "postCode": "1232",
+    "address": "house#2 st55"
+  }
+}

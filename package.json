@@ -1,0 +1,9 @@
+{ "scripts": {
+  "cypress:open": "cypress open",
+  "cy:Task1":"npx cypress run --headed --spec cypress/integration/Task1/orderProduct.cy.js"
+
+},
+  "devDependencies": {
+    "cypress": "^13.13.0"
+  }
+}
